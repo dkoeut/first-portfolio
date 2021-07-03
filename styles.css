@@ -10,17 +10,28 @@ body {
 div.bio-container {
   height: 300px;
   width: 100%;
-  background-color: lightblue;
-  margin-top: 200px;
+  background-color: lightgray;
+  margin-top: 25%;
   margin-bottom: 35px;
   border: 1px solid lightgray;
-  box-shadow: 3px 2px 5px gray;
+  box-shadow: 3px 2px 5px white;
   padding: 30px;
+  opacity: 0.85;
+  border-radius: 8px;
+}
+
+p.bio {
+  font-size: 18px;
+  margin-top: 25px;
 }
 
 div.contact-container {
   height: 300px;
   width: 100%;
-  background-color: lightblue;
+  background-color: lightgray;
   padding: 30px;
+  border: 1px solid lightgray;
+  box-shadow: 3px 2px 5px white;
+  opacity: 0.97;
+  border-radius: 10px;
 }
