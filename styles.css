@@ -1,0 +1,16 @@
+div.bio-container {
+  height: 300px;
+  width: 100%;
+  background-color: lightblue;
+  margin-top: 200px;
+  margin-bottom: 35px;
+  border: 1px solid lightgray;
+  box-shadow: 3px 2px 5px gray;
+  padding: 30px;
+}
+
+div.contact-container {
+  height: 300px;
+  width: 100%;
+  background-color: lightblue;
+}
